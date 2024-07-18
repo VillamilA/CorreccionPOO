@@ -13,7 +13,7 @@ public class eliminarpaciente extends JFrame {
 
     public eliminarpaciente() {
         setTitle("Eliminar Paciente");
-        setSize(400, 600);
+        setSize(500, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setContentPane(panelEliminar);
         setLocationRelativeTo(null);

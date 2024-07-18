@@ -16,7 +16,7 @@ public class buscarpaciente extends JFrame {
 
     public buscarpaciente() {
         setTitle("Buscar Paciente");
-        setSize(400, 600);
+        setSize(500, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setContentPane(panelBuscar);
         setLocationRelativeTo(null);

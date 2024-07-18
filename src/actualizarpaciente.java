@@ -18,7 +18,7 @@ public class actualizarpaciente extends JFrame {
 
     public actualizarpaciente() {
         setTitle("Actualizar Paciente");
-        setSize(400, 600);
+        setSize(500, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setContentPane(panelActualizar);
         setLocationRelativeTo(null);
